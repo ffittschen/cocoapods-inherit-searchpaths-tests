@@ -6,7 +6,7 @@ target 'CocoaPodsDemo' do
   use_frameworks!
 
   # Pods for CocoaPodsDemo
-  pod 'Firebase/Core'
+  pod 'Firebase/Crash'
   
   target 'CocoaPodsDemoTests' do
     inherit! :search_paths
