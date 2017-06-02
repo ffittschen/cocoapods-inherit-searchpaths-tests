@@ -11,3 +11,5 @@ Project and Pods build successfully and all tests are green
 
 ## Actual outcome
 Compiling the unit test target fails with the error message: _Missing required module 'Firebase'_
+
+![screenshot of the error message](./.readme-assets/screenshot.png)
